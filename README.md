@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+## 📜 Personal Portfolio Website
 
 A fully responsive **Personal Portfolio Website** built using **HTML, CSS, Bootstrap, JavaScript, Tailwand CSS** to showcase my skills, projects, and achievements in web development.  
 This project is designed with a clean UI, smooth animations, and a mobile-friendly layout.
@@ -29,8 +29,8 @@ This project is designed with a clean UI, smooth animations, and a mobile-friend
 
 Zeeshan Ramzan 
 
-📧 [versatilezeeshan1708@gmail.com] 
-🔗 GitHub [https://github.com/zees123-svg]
+📧 [versatilezeeshan1708@gmail.com] <br>
+🔗 GitHub [https://github.com/zees123-svg] <br>
 🔗 LinkedIn [https://www.linkedin.com/in/zeeshan-ramzan-719845341/]
 
 ## 🌐 Live Demo
