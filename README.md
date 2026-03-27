@@ -22,7 +22,7 @@ This project is designed with a clean UI, smooth animations, and a mobile-friend
 | Frontend            | Tools & Libraries |
 |---------------------|-------------------|
 | HTML5, CSS3         | Font Awesome      |
-| Tailwind CSS3       | Google Fonts      |
+| Tailwind CSS        | Google Fonts      |
 | JavaScript          | VS Code Editor    |
 
 ## 👨‍💻 Author
